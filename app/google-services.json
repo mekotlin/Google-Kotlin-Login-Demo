@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624053677333",
+    "project_id": "logindemo-c5d42"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624053677333:android:b805459bf5121f94",
+        "android_client_info": {
+          "package_name": "mekotlinapps.dnyaneshwar.in.googlelogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624053677333-p0pm72skdrhs10uanlso4tbatd1lvo2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mekotlinapps.dnyaneshwar.in.googlelogindemo",
+            "certificate_hash": "345add87845fc947b350dca3b7cde2f4f7f98ca3"
+          }
+        },
+        {
+          "client_id": "624053677333-92tppfh0kfvnms8ks4fumfd29e416183.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLhJy0jGPnzoUJjX2eseVeXB6xBS-20E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
